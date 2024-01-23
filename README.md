@@ -4,16 +4,11 @@ OwO
 
 ```
 JKB
-
 aoa
-
 vts
-
 alh
-
- i
-  
- n
+ i 
+ n 
 ```
 
 <!---
